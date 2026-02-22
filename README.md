@@ -1,5 +1,5 @@
 # 💫 About Me:
-# About Me :<br><br>- 🔭 I’m currently working on **2 projects: MY MSS and RENT KNOCK**<br>- 👯 I’m looking to collaborate on **real-world impactful projects**<br>- 🤝 I’m looking for help with **advanced LLM integrations and WordPress**<br>- 🌱 I’m currently learning **WordPress and LLM (Large Language Models)**<br>- 💬 Ask me about **Flutter, Kotlin, and WordPress**<br>- ⚡ Fun fact **I'm a full-time Flutter developer who can build complete management systems from scratch, but I will still spend hours obsessing over the perfect hex color palettes for my UI!**
+# About Me:<br><br>- 🔭 I’m currently working on **2 projects: MY MSS and RENT KNOCK**<br>- 👯 I’m looking to collaborate on **real-world impactful projects**<br>- 🤝 I’m looking for help with **advanced LLM integrations and WordPress**<br>- 🌱 I’m currently learning **WordPress and LLM (Large Language Models)**<br>- 💬 Ask me about **Flutter, Kotlin, and WordPress**<br>- ⚡ Fun fact **I'm a full-time Flutter developer who can build complete management systems from scratch, but I will still spend hours obsessing over the perfect hex color palettes for my UI!**
 
 
 ## 🌐 Socials:
