@@ -1,7 +1,7 @@
 About Me:
-🔭 I’m currently working as a Team Leader on Frozen Foods
+🔭 I’m currently working as a Team Leader and Flutter app developer.
 
-🏆 I recently completed RentKnock (E-commerce & Rental Platform)
+🏆 I recently completed RentKnock (E-commerce & Rental Platform) 
 
 👯 I’m looking to collaborate on real-world impactful projects
 
