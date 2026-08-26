@@ -18,5 +18,6 @@ I specialize in Flutter, Dart, REST APIs, Firebase, databases, and cross-platfor
 🌱 Continuously improving my Full-Stack Development & Software Architecture skills
 
 💬 Ask me about Flutter, Dart, REST APIs, Firebase, Databases & Team Leadership
+
 ⚡ Fun fact: I can build a complete management system from scratch, but I'll still spend hours choosing the perfect hex color for the UI. 
 
