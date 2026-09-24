@@ -9,7 +9,7 @@ I specialize in Flutter, Dart, REST APIs, Firebase, databases, and cross-platfor
 
 📱 Building cross-platform mobile applications with Flutter
 
-🏆 Recently completed RentKnock — E-commerce & Rental Platform
+🏆 Recently completed USHU— E-commerce & DMS Platform
 
 💻 Experienced in building complete applications from UI to backend/API integration
 
