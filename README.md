@@ -1,23 +1,18 @@
-👋 Hi, I'm Zaheer Iqbal
-🚀 Full-Stack App Developer | Flutter Developer | Team Leader
+# 💫 About Me:
+👋 Hi, I'm Zaheer Iqbal 🚀 Full-Stack App Developer | Flutter Developer | Team Leader<br><br>I'm a Full-Stack App Developer and Team Leader passionate about building scalable, production-ready applications and complete management systems from scratch.<br><br>I specialize in Flutter, Dart, REST APIs, Firebase, databases, and cross-platform application development. I enjoy turning real-world ideas into clean, reliable, and user-friendly applications.<br><br>🔭 Currently working as a Team Leader & Flutter Developer<br><br>📱 Building cross-platform mobile applications with Flutter<br><br>🏆 Recently completed USHU— E-commerce & DMS Platform<br><br>💻 Experienced in building complete applications from UI to backend/API integration<br><br>🤝 Open to collaborating on real-world and impactful projects<br><br>🌱 Continuously improving my Full-Stack Development & Software Architecture skills<br><br>💬 Ask me about Flutter, Dart, REST APIs, Firebase, Databases & Team Leadership<br><br>⚡ Fun fact: I can build a complete management system from scratch, but I'll still spend hours choosing the perfect hex color for the UI.
 
-I'm a Full-Stack App Developer and Team Leader passionate about building scalable, production-ready applications and complete management systems from scratch.
 
-I specialize in Flutter, Dart, REST APIs, Firebase, databases, and cross-platform application development. I enjoy turning real-world ideas into clean, reliable, and user-friendly applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zaheer-iqbal-688a87210/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Zaheer Iqbal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iqbalzaheer269@gmail.com) 
 
-🔭 Currently working as a Team Leader & Flutter Developer
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Zaheer Iqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Zaheer Iqbal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zaheer Iqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-📱 Building cross-platform mobile applications with Flutter
+---
+[![](https://komarev.com/ghpvc/?username=Zaheer Iqbal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🏆 Recently completed USHU— E-commerce & DMS Platform
-
-💻 Experienced in building complete applications from UI to backend/API integration
-
-🤝 Open to collaborating on real-world and impactful projects
-
-🌱 Continuously improving my Full-Stack Development & Software Architecture skills
-
-💬 Ask me about Flutter, Dart, REST APIs, Firebase, Databases & Team Leadership
-
-⚡ Fun fact: I can build a complete management system from scratch, but I'll still spend hours choosing the perfect hex color for the UI. 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
